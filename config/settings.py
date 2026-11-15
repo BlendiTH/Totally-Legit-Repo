@@ -9,4 +9,3 @@ aws_key = "0123456789abcdef0123456789abcdef01234567"  # missing 'secret'
 password = "process.env.USER_PASSWORD"                # env reference
 def github_pat_helper_function():                     # function name, not a token
     pass
-EOF
